@@ -16,10 +16,10 @@ Performed **CEA simulations** to study the effect of **equivalence ratio** on fl
 
 ### Sample Plots
 Flame Temperature vs Equivalence Ratio:  
-![Flame Temperature](images/flame_temperature.png)
+<img width="1567" height="756" alt="image" src="https://github.com/user-attachments/assets/47f6d80c-3ee6-44c3-8740-3e1d7db98bbf" />
 
 NO Mole Fraction vs Equivalence Ratio:  
-![NO Mole Fraction](images/no_fraction.png)
+<img width="1583" height="781" alt="image" src="https://github.com/user-attachments/assets/b8454255-bcc4-4d8e-a40f-4a2f2418c84a" />
 
 ---
 
